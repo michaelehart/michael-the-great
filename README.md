@@ -1,4 +1,4 @@
 # michael-the-great
 lonestar php class
-Just a sample for git workshop
+["Getting-Git"]Just a sample for git workshop
 AT LoneStar PHP
